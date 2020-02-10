@@ -1,2 +1,3 @@
 # UIFrameWork
- 
+使用Unity制作的管理UIPanel的工程，该工程能对UI进行统一的管理，降低代码耦合。
+UIFramework.unitypackage为打包的关键代码，导入其他工程能够直接使用
